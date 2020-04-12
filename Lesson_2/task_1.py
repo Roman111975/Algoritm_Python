@@ -16,7 +16,7 @@ while a != 0:
     if a % 2 == 0:
         even += 1
     else:
-        odd += 1
+        odd += 1x
     a = a // 10
 
 print("Четных цифр:", even)

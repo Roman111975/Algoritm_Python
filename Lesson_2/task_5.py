@@ -12,7 +12,7 @@ import time
 random.seed(time.time())
 num = random.randint(0, 100)
 
-try_ = 10
+try_ = 10k
 
 while try_ != 0:
     hyp = int(input("Введите предполагаемое число hyp: "))
